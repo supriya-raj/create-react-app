@@ -55,5 +55,8 @@
     "*.{js,json,yml,yaml,css,scss,ts,tsx,md}": [
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "react-switch": "^6.0.0"
   }
 }
